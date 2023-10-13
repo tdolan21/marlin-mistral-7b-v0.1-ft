@@ -1,4 +1,4 @@
-# Marlin Mistral FT Jupyter Notebook
+# Marlin-Mistral-7b-v0.1 FT Guide
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
