@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 ![Transformers](https://img.shields.io/badge/Transformers-4.x-yellow)
 ![Datasets](https://img.shields.io/badge/Datasets-HuggingFace-green)
 ![Accelerate](https://img.shields.io/badge/Accelerate-1.x-lightblue)
